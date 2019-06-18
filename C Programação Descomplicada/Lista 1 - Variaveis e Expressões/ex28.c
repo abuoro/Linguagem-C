@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Exercicio 28. Fac¸a a leitura de tres valores e 
+//Exercicio 28. FacÂ¸a a leitura de tres valores e 
 //apresente como resultado a soma dos quadrados
 //dos tres valores lidos.
 
@@ -14,7 +14,7 @@ int main ()
 	scanf("%f",&y);
 	printf("Digite o terceiro numero\n");
 	scanf("%f",&z);
-	printf("O resultado é %f\n",x=(x*x)+(y*y)+(z*z));
+	printf("O resultado Ã© %f\n",x=(x*x)+(y*y)+(z*z));
 	
 	
 }
